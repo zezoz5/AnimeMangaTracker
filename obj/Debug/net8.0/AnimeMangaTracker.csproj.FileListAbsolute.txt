@@ -1,0 +1,304 @@
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.exe
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.deps.json
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.runtimeconfig.json
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.pdb
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Azure.Core.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Azure.Identity.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Humanizer.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.ClientModel.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.CodeDom.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Text.Json.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Anime Manga tracker\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.csproj.AssemblyReference.cache
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.AssemblyInfoInputs.cache
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.AssemblyInfo.cs
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.csproj.CoreCompileInputs.cache
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMan.CB592140.Up2Date
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.dll
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\refint\AnimeMangaTracker.dll
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.pdb
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.genruntimeconfig.cache
+D:\Anime Manga tracker\AnimeMangaTracker\obj\Debug\net8.0\ref\AnimeMangaTracker.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.exe
+D:\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.deps.json
+D:\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.runtimeconfig.json
+D:\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\AnimeMangaTracker.pdb
+D:\AnimeMangaTracker\bin\Debug\net8.0\Azure.Core.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Azure.Identity.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Humanizer.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.ClientModel.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.CodeDom.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Text.Json.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\AnimeMangaTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.csproj.AssemblyReference.cache
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.AssemblyInfoInputs.cache
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.AssemblyInfo.cs
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.csproj.CoreCompileInputs.cache
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMan.CB592140.Up2Date
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.dll
+D:\AnimeMangaTracker\obj\Debug\net8.0\refint\AnimeMangaTracker.dll
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.pdb
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.genruntimeconfig.cache
+D:\AnimeMangaTracker\obj\Debug\net8.0\ref\AnimeMangaTracker.dll
