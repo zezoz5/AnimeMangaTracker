@@ -302,3 +302,4 @@ D:\AnimeMangaTracker\obj\Debug\net8.0\refint\AnimeMangaTracker.dll
 D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.pdb
 D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.genruntimeconfig.cache
 D:\AnimeMangaTracker\obj\Debug\net8.0\ref\AnimeMangaTracker.dll
+D:\AnimeMangaTracker\obj\Debug\net8.0\AnimeMangaTracker.sourcelink.json
