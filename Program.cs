@@ -50,6 +50,8 @@ class Program
                     break;
 
                 case "6":
+                    Console.Clear();
+                    System.Console.WriteLine("Thank you for using my Manga library. UwU");
                     return;
 
                 default:
@@ -99,6 +101,7 @@ class Program
     // --- User Manga readlist ---
     static void MangaUserReadlist(AppDbContext context)
     {
+        int counter = 0;
         Console.Write("\nEnter your User Name: ");
         string? Username = Console.ReadLine();
 
@@ -112,7 +115,8 @@ class Program
             System.Console.WriteLine();
             foreach (var Manga in MyReadlist)
             {
-                System.Console.WriteLine($"{Manga.Manga.Title}, Collection: {Manga.Collection}, Your rating: {Manga.UserRating}, Review: {Manga.Review}");
+                counter++;
+                System.Console.WriteLine($"{counter}. {Manga.Manga.Title}, Collection: {Manga.Collection}, Your rating: {Manga.UserRating}, Review: {Manga.Review}");
             }
 
         }
@@ -125,6 +129,7 @@ class Program
     // --- Filter by Genre ---
     static void FilterMangaByGenre(AppDbContext context)
     {
+        int counter = 0;
         System.Console.Write("\nEnter the genre you want to sort by: ");
         string? Genre = Console.ReadLine();
         System.Console.WriteLine();
@@ -138,7 +143,8 @@ class Program
 
             foreach (var manga in genreFilter)
             {
-                System.Console.WriteLine($"{manga.Manga.Title}");
+                counter++;
+                System.Console.WriteLine($"{counter}. {manga.Manga.Title}");
             }
         }
         else
@@ -150,6 +156,7 @@ class Program
     // --- Filter by Collection ---
     static void FilterMangaByCollection(AppDbContext context)
     {
+        int counter = 0;
         var FilterCollection = context.MangaUsers
         .Include(mu => mu.Manga)
         .OrderBy(mu => mu.Collection)
@@ -158,13 +165,15 @@ class Program
         System.Console.WriteLine();
         foreach (var manga in FilterCollection)
         {
-            System.Console.WriteLine($"{manga.Manga.Title} - {manga.Collection}");
+            counter++;
+            System.Console.WriteLine($"{counter}. {manga.Manga.Title} - {manga.Collection}");
         }
     }
 
     // --- Sort by Score ---
     static void FilterMangaByScore(AppDbContext context)
     {
+        int counter = 0;
         var ratingSort = context.Mangas
             .OrderByDescending(ms => ms.Score)
             .ToList();
@@ -172,7 +181,8 @@ class Program
         System.Console.WriteLine();
         foreach (var manga in ratingSort)
         {
-            System.Console.WriteLine($"{manga.Title} - Rating: {manga.Score}");
+            counter++;
+            System.Console.WriteLine($"{counter}. {manga.Title} - Rating: {manga.Score}");
         }
     }
 
